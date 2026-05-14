@@ -1,0 +1,28 @@
+{
+	"id": "957b30da-e307-479d-85ea-6f47320ce0af",
+	"name": "Ecom Enviroment variables",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Product_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"color": 120,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-05-14T18:23:18.913Z",
+	"_postman_exported_using": "Postman/12.10.5"
+}
